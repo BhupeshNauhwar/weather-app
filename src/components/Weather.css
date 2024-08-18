@@ -118,3 +118,35 @@ font-size: 18px;
         padding: 10px;
     }
 }
+@media (max-width: 600px) {
+    .temp {
+        font-size: 40px;
+    }
+
+    .location {
+        font-size: 24px;
+    }
+
+    .weather-data .col {
+        font-size: 20px;
+    }
+
+    .weather-icon {
+        width: 80px;
+    }
+
+    .weather {
+        padding: 15px;
+    }
+
+    .search-bar input {
+        height: 35px;
+        font-size: 14px;
+        padding-left: 15px;
+    }
+
+    .search-bar img {
+        width: 35px;
+        padding: 8px;
+    }
+}
